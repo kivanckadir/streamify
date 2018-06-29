@@ -4,7 +4,7 @@ My second undergraduate project that can stream windows desktop screen and audio
 
 ## Server
 
-![alt text](https://github.com/kivanckadir/streamify/blob/master/screenshots/server.jpg)
+![alt text](https://github.com/kivanckadir/streamify/blob/master/screenshots/server.JPG)
 
 ## Client
 
